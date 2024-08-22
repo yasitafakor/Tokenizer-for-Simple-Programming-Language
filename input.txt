@@ -1,0 +1,11 @@
+functionvoid { z>y++};
+x : integer
+//hello
+x = 3;
+a = 2;
+b: "kkkk"
+//8989*8989
+/*
+kkjnnk232398
+*/
+function: { if(x < y):};
